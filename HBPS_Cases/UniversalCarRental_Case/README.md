@@ -29,7 +29,7 @@ The focus of the analysis is to prepare a strategic and financial plan for **Uni
 4. **Suggestions for Additional Analyses** in a real-world context and their potential impact on management decisions.
 
 ## Assumptions
-For the purpose of this analysis, certain assumptions have been made, such as zero inflation and no market growth. These are detailed in the `Assumptions.pdf` file.
+For the purpose of this analysis, certain assumptions have been made, such as zero inflation and no market growth. These are detailed in the `pdf` file.
 
 ## How to Use
 - **Clone the repository.**
